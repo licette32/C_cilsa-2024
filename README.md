@@ -1,6 +1,6 @@
 # 📌 Introducción a Python - CILSA 2024
 
-![Python Banner]([https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg](https://github.com/licette32/C_cilsa-2024/blob/main/clase/banner_cilsa.png))
+![Python Banner](https://github.com/licette32/C_cilsa-2024/blob/main/clase/banner_cilsa.png)
 
 ## 📖 Descripción
 Este repositorio contiene el material del curso **Introducción al desarrollo con Python** dictado en CILSA durante 2024. Aquí encontrarás archivos de clase, ejemplos prácticos, desafíos y el trabajo final del curso.
