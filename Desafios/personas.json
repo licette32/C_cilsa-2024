@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "Licette",
+        "apellido": "Casanova",
+        "edad": 34,
+        "email": "licette.gc@gmail.com"
+    },
+    {
+        "nombre": "Enzo",
+        "apellido": "Romo",
+        "edad": 45,
+        "email": "EnzoR@hotmail.com"
+    }
+]

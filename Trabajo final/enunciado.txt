@@ -1,0 +1,22 @@
+Enunciado de la Actividad: Filtrado de Información en un Archivo CSV
+ 
+
+Objetivo: Crear un programa en Python que permita filtrar datos de personas según un rango de edades. Pueden utilizar el  archivo datos.csv
+
+ 
+Requisitos:
+Leer el archivo CSV:
+
+Cargar los datos del archivo datos.csv en una estructura que te resulte cómoda (por ejemplo, una lista de diccionarios).
+Pedir datos al usuario:
+
+Solicitar al usuario que ingrese un rango de edades (edad mínima y edad máxima).
+Filtrar la información:
+
+Mostrar los datos completos de las personas que se encuentren dentro del rango de edades especificado.
+Opciones adicionales (opcionales):
+
+Agregar un menú de opciones.
+Agregar más filtros, como búsqueda por nombre o ciudad.
+Usar otro archivo .csv con una estructura diferente, pero implementar algún tipo de filtrado.
+Guardar los resultados filtrados en un nuevo archivo CSV o TXT.

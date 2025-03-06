@@ -1,0 +1,26 @@
+"""
+Polimorfismo: propiedad por el que es posible enviar un mismo mensaje 
+a objetos de distintos tipos (clases), y lo saben resolver (deben implementarse para cada uno).
+"""
+class Persona:
+
+    def hablar(self):
+        pass
+        # porque pass? porque voy a definir el método hablar para cada clase que herede de esta.
+
+class Estudiante(Persona):
+
+    def hablar(self):
+        print("Soy un estudiante")
+
+class Docente(Persona):
+    def hablar(self):
+        print("Soy un docente")
+
+e = Estudiante()
+e.hablar()
+d = Docente()
+d.hablar()
+
+#Diferentes objetos, tienen el mismo nombre de metodo, pero realizan cada uno algo diferente
+# cada objeto se comporta de una manera distinta al utilizar "hablar"
